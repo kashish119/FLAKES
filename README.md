@@ -34,6 +34,6 @@ It's an Movie Recommendation system Web based application  build using KNN ( K- 
 
 
 
-Link to video:-
-
+Link to presentation :-
+https://youtu.be/Jw5ajbwHpUs
 
